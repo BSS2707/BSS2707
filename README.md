@@ -1,8 +1,10 @@
 <div align="center">
 
+# Bhavya S Solanki
+
 <!-- Typing animation -->
 <a href="https://github.com/BSS2707">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F7&center=true&vCenter=true&width=940&lines=AI%2FML+Student+%26+Developer;Data+Scientist;Web+Designer;Python+Developer;Educator;Chess+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=400&speed=40&color=2EA3F7&center=true&vCenter=true&width=940&lines=AI%2FML+Student+%26+Developer;Data+Scientist;Web+Designer;Python+Developer;Educator;Chess+Player" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -48,6 +50,7 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/><br/>
 <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"/>
 <img src="https://img.shields.io/badge/Chatbot%20Development-2EA3F7?style=for-the-badge&logo=chatbot&logoColor=white" alt="Chatbot Development"/>
+<img src="https://img.shields.io/badge/Chess-769656?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess"/>
 
 </div>
 
