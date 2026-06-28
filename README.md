@@ -85,6 +85,26 @@
 
 <br/>
 
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BSS2707&theme=react-dark&hide_border=true&area=true" alt="BSS2707's Contribution Graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<img src="https://github.com/BSS2707/BSS2707/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+<!--END_SECTION:waka-->
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BSS2707&color=2EA3F7&style=flat)
