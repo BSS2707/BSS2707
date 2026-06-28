@@ -2,7 +2,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/BSS2707">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F7&center=true&vCenter=true&width=940&lines=Bhavya+S+Solanki;AI%2FML+Student+%26+Developer;Data+Scientist;Web+Designer;Python+Developer;Educator;Chess+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F7&center=true&vCenter=true&width=940&lines=AI%2FML+Student+%26+Developer;Data+Scientist;Web+Designer;Python+Developer;Educator;Chess+Player" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://x.com/bhavya_solanki7" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x" alt="X / Twitter"/>
 </a>
 
 </div>
@@ -40,9 +40,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,java,c,cpp&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,git,github,vscode,figma&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,pandas,numpy,tensorflow,sklearn,jupyter,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" /><br/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/><br/>
+<img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"/>
+<img src="https://img.shields.io/badge/Chatbot%20Development-2EA3F7?style=for-the-badge&logo=chatbot&logoColor=white" alt="Chatbot Development"/>
 
 </div>
 
