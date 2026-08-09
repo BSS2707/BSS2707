@@ -17,7 +17,11 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 - 🌐 Portfolio: **[bhavyasolanki.netlify.app](https://bhavyasolanki.netlify.app/)**
 - ✍️ Blog: **[bhavyasolanki.netlify.app/blog](https://bhavyasolanki.netlify.app/blog)**
-
+- 🔭 I'm currently working on: **_[add your current project here]_**
+- 🌱 I'm currently learning: **_[add what you're learning here]_**
+- 👯 I'm looking to collaborate on: **_[add topics/projects here]_**
+- 💬 Ask me about: **AI/ML, Data Science, Python, Web Design**
+- ⚡ Fun fact: **_[something fun about you]_**
 
 <br>
 
@@ -68,7 +72,7 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bhavya-s-solanki-4a3530317/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin-white&logoColor=39D353" /></a>
+<a href="https://www.linkedin.com/in/bhavya-s-solanki-4a3530317/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin-white&logoColor=white" /></a>
 <a href="https://www.instagram.com/bhavyasolanki_07/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39D353" /></a>
 <a href="https://x.com/bhavya_solanki7"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=39D353" /></a>
 <a href="https://bhavyasolanki.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=39D353" /></a>
