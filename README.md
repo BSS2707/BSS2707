@@ -17,12 +17,6 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 - 🌐 Portfolio: **[bhavyasolanki.netlify.app](https://bhavyasolanki.netlify.app/)**
 - ✍️ Blog: **[bhavyasolanki.netlify.app/blog](https://bhavyasolanki.netlify.app/blog)**
-- 🔭 I'm currently working on: **_[add your current project here]_**
-- 🌱 I'm currently learning: **_[add what you're learning here]_**
-- 👯 I'm looking to collaborate on: **_[add topics/projects here]_**
-- 💬 Ask me about: **AI/ML, Data Science, Python, Web Design**
-- ⚡ Fun fact: **_[something fun about you]_**
-
 <br>
 
 ## 📌 Pinned Projects
