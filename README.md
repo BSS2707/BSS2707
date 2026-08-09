@@ -17,14 +17,21 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 - 🌐 Portfolio: **[bhavyasolanki.netlify.app](https://bhavyasolanki.netlify.app/)**
 - ✍️ Blog: **[bhavyasolanki.netlify.app/blog](https://bhavyasolanki.netlify.app/blog)**
+- 🔭 I'm currently working on: **_[add your current project here]_**
+- 🌱 I'm currently learning: **_[add what you're learning here]_**
+- 👯 I'm looking to collaborate on: **_[add topics/projects here]_**
+- 💬 Ask me about: **AI/ML, Data Science, Python, Web Design**
+- ⚡ Fun fact: **_[something fun about you]_**
+
 <br>
 
 ## 📌 Pinned Projects
 
-- 🌐 **[Bhavya-S-Solanki](https://github.com/BSS2707/Bhavya-S-Solanki)** — my portfolio website (HTML)
-- 🎨 **[Hanuman](https://github.com/BSS2707/Hanuman)** — CSS project
-- 🏏 **[CSK-SITE](https://github.com/BSS2707/CSK-SITE)** / **[CSK-WEBSITE](https://github.com/BSS2707/CSK-WEBSITE)** — CSK fan websites (HTML)
-- 💻 **[code-workout](https://github.com/BSS2707/code-workout)** — fork of CodeWorkout, a programming practice platform (Ruby)
+> 🧠 **[IndLan](https://github.com/BSS2707/IndLan)** — my own custom programming language, built from scratch with `.ind` file extension.
+
+- 📊 **[E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib](https://github.com/BSS2707/E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib)** — customer churn analysis dashboard (Python)
+- 🧩 **[leetcode_code_slove](https://github.com/BSS2707/leetcode_code_slove)** — LeetCode problem solutions (Python)
+- 📈 **[Stock-Price-Prediction-Dashboard](https://github.com/BSS2707/Stock-Price-Prediction-Dashboard)** — stock price prediction dashboard (Python)
 
 <br>
 
@@ -54,8 +61,8 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BSS2707&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="BSS2707's GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSS2707&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="35%" />
+<img src="https://github-stats-extended.vercel.app/api?username=BSS2707&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="BSS2707's GitHub stats" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BSS2707&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="35%" />
 
 </div>
 
@@ -65,7 +72,7 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bhavya-s-solanki-4a3530317/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353" /></a>
+<a href="https://www.linkedin.com/in/bhavya-s-solanki-4a3530317/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin-white&logoColor=39D353" /></a>
 <a href="https://www.instagram.com/bhavyasolanki_07/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39D353" /></a>
 <a href="https://x.com/bhavya_solanki7"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=39D353" /></a>
 <a href="https://bhavyasolanki.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=39D353" /></a>
