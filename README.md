@@ -23,9 +23,11 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 > 🧠 **[IndLan](https://github.com/BSS2707/IndLan)** — my own custom programming language, built from scratch with `.ind` file extension.
 
-> 📊 **[E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib](https://github.com/BSS2707/E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib)** — customer churn analysis dashboard (Python)
-> 🧩 **[leetcode_code_slove](https://github.com/BSS2707/leetcode_code_slove)** — LeetCode problem solutions (Python)
->  📈 **[Stock-Price-Prediction-Dashboard](https://github.com/BSS2707/Stock-Price-Prediction-Dashboard)** — stock price prediction dashboard (Python)
+<ul>
+<li>📊 <b><a href="https://github.com/BSS2707/E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib">E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib</a></b> — customer churn analysis dashboard (Python)</li>
+<li>🧩 <b><a href="https://github.com/BSS2707/leetcode_code_slove">leetcode_code_slove</a></b> — LeetCode problem solutions (Python)</li>
+<li>📈 <b><a href="https://github.com/BSS2707/Stock-Price-Prediction-Dashboard">Stock-Price-Prediction-Dashboard</a></b> — stock price prediction dashboard (Python)</li>
+</ul>
 
 <br>
 
@@ -37,12 +39,21 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39D353" />
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=39D353" />
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=39D353" />
-<img src="https://img.shields.io/badge/Ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=39D353" />
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=39D353" />
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=39D353" />
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=39D353" />
 <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=39D353" />
 <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=39D353" />
+<img src="https://img.shields.io/badge/AI-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+<img src="https://img.shields.io/badge/ML-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+<img src="https://img.shields.io/badge/DL-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+<img src="https://img.shields.io/badge/ANN-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+<img src="https://img.shields.io/badge/CNN-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+<img src="https://img.shields.io/badge/RNN-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=39D353" />
 <img src="https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=39D353" />
 <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=39D353" />
@@ -55,7 +66,7 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=BSS2707&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="BSS2707's GitHub stats" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=BSS2707&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true" alt="BSS2707's GitHub stats" width="49%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BSS2707&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="35%" />
 
 </div>
