@@ -23,11 +23,11 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 > 🧠 **[IndLan](https://github.com/BSS2707/IndLan)** — my own custom programming language, built from scratch with `.ind` file extension.
 
-<ul>
-<li>📊 <b><a href="https://github.com/BSS2707/E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib">E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib</a></b> — customer churn analysis dashboard (Python)</li>
-<li>🧩 <b><a href="https://github.com/BSS2707/leetcode_code_slove">leetcode_code_slove</a></b> — LeetCode problem solutions (Python)</li>
-<li>📈 <b><a href="https://github.com/BSS2707/Stock-Price-Prediction-Dashboard">Stock-Price-Prediction-Dashboard</a></b> — stock price prediction dashboard (Python)</li>
-</ul>
+> 📊 **[E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib](https://github.com/BSS2707/E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib)** — customer churn analysis dashboard (Python)
+
+> 🧩 **[leetcode_code_slove](https://github.com/BSS2707/leetcode_code_slove)** — LeetCode problem solutions (Python)
+
+> 📈 **[Stock-Price-Prediction-Dashboard](https://github.com/BSS2707/Stock-Price-Prediction-Dashboard)** — stock price prediction dashboard (Python)
 
 <br>
 
