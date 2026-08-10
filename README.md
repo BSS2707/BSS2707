@@ -25,7 +25,7 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 > 📊 **[E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib](https://github.com/BSS2707/E-commerce-Churn-Data-Analysis-via-Streamlit-Matplotlib)** — customer churn analysis dashboard (Python)
 > 🧩 **[leetcode_code_slove](https://github.com/BSS2707/leetcode_code_slove)** — LeetCode problem solutions (Python)
-> 📈 **[Stock-Price-Prediction-Dashboard](https://github.com/BSS2707/Stock-Price-Prediction-Dashboard)** — stock price prediction dashboard (Python)
+>  📈 **[Stock-Price-Prediction-Dashboard](https://github.com/BSS2707/Stock-Price-Prediction-Dashboard)** — stock price prediction dashboard (Python)
 
 <br>
 
