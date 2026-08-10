@@ -79,7 +79,6 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 
 <a href="https://www.linkedin.com/in/bhavya-s-solanki-4a3530317/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin-white&logoColor=white" /></a>
 <a href="https://www.instagram.com/bhavyasolanki_07/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39D353" /></a>
-<a href="https://x.com/bhavya_solanki7"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=39D353" /></a>
 <a href="https://bhavyasolanki.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=39D353" /></a>
 <!-- Add your email here if you want it public -->
 <!-- <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353" /></a> -->
