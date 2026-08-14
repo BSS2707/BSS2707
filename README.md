@@ -48,6 +48,7 @@ AI/ML Student & Developer • Data Scientist • Web Designer • Python Develop
 <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=39D353" />
 <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=39D353" />
 <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=39D353" />
+<img src="https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=39D353" />
 <img src="https://img.shields.io/badge/AI-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
 <img src="https://img.shields.io/badge/ML-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
 <img src="https://img.shields.io/badge/DL-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
